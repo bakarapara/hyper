@@ -19,7 +19,7 @@ Go to [https://app.hyperliquid-testnet.xyz/staking/](https://app.hyperliquid-tes
 
 ![Step 2](2.png)
 
-- - Click the **Transfer** button.
+- Click the **Transfer** button.
 
 ---
 
@@ -28,10 +28,6 @@ Go to [https://app.hyperliquid-testnet.xyz/staking/](https://app.hyperliquid-tes
 - Click the **Stake Tokens** button.
 
 ![Step 3](3.png)
-
----
-
-## Step 4: Stake HYPE Tokens
 
 - In the dialog that opens:
   - Enter the amount of HYPE tokens in the first field.
